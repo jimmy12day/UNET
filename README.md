@@ -1,2 +1,3 @@
-# UNETDEMO
+# UNET DEMO
+Unity networking prototype
  
